@@ -9,3 +9,16 @@ This project allows users to:
 - View all expense entries easily.
 - Analyze overall spending and identify high-spending categories.
 The project does not require internet, any database setup making it lightweight and easy to use.
+
+## Target Users
+- Students managing pocket money
+- Adults wanting to track their daily/monthly expenditure
+- All individuals looking for a simple expense calculator tool
+
+## High Level Features
+- Add Expense Module (input and validation)
+- View Expenses Module (CSV table reader)
+- Analytics Module (category-wise totals, highest spending category)
+- Automatic CSV creation and storage
+
+  
