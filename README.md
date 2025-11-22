@@ -1,5 +1,5 @@
 # Vityarthi-Project
-The **Personal Budget Tracker** is a simple , beginner friendly project that helps students manage their expenses.It uses CSV files to store data and provide analytics on the students expenditure based on it.It is a simple to track financial habits.
+The **Personal Budget Tracker** is a simple , beginner friendly project that helps students manage their expenses.It uses CSV files to store data and provide analytics on the students expenditure based on it.It is a simple to use application , suitable to track and monitor expenses.
 
 ## **Features include:**
 #
