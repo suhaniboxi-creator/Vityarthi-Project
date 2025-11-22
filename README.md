@@ -38,7 +38,7 @@ Displays the records as entered.
 ### To test **'Invalid Input'**
 If the user enters a non numeric data type in amount then it will display invalid input.
 
-### To test **'View Analytics'
+### To test **'View Analytics'**
 It will add entries across different categories.
 Display total spendings and the highest spent category.
 
@@ -49,17 +49,4 @@ Display total spendings and the highest spent category.
 
 
 
-Test View Expenses
-
-Ensure records appear exactly as entered.
-
-Test Invalid Input
-
-Enter non-numeric amount → program must show error.
-
-Test Analytics
-
-Add multiple entries across different categories.
-
-Verify correct totals and highest spending category.
 
