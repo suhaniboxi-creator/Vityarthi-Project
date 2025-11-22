@@ -1,34 +1,41 @@
 # Vityarthi-Project
 The **Personal Budget Tracker** is a simple , beginner friendly project that helps students manage their expenses.It uses CSV files to store data and provide analytics on the students expenditure based on it.It is a simple to track financial habits.
 
-**Features include**:
+##**Features include:**
 #
-**Add Expenses**:
+###**Add Expenses:**
 It can easily add expenses under pre-defined categories.
 The user can also make notes for each expense added.
 The expenses are automtaically added to the budget csv file.
 
-**View Expenses**:
+###**View Expenses:**
 The user can view all their expenses.
-Useful for reviewing past entries.
+Very Useful for reviewing past entries.
 
-**Spending Analytics**
+###**Spending Analytics:**
 Calculates total expenses.
-Displays category wise total expenses
-Also identifies highest spent category.
+ Displays category wise total expenses
+ Also identifies highest spent category.
 
-**Based on CSV file**
+###**Based on CSV file**
 It uses CSV file to store the file.
 Simple and lightweight
 
-**Technologies/Tools used**
-Python 
-CSV File handiling
-OS Module
-Dictionary/Lists Data structures
+## **Technologies/Tools used**
+Python , 
+CSV File handiling ,
+OS Module ,
+Dictionary/Lists Data structures.
 
-**Instructions For Testing**
-To Test 'Add Expense'
+## **Instructions For Testing**
+### To Test **'Add Expense'**
+Enter a valid date, item , amount and category.
+The entered data will automatically be updated in the CSV file.
+
+### To test **'View Expenses'**
+
+
+
 
 
 
