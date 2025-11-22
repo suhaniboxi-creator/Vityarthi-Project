@@ -4,43 +4,43 @@ The **Personal Budget Tracker** is a simple , beginner friendly project that hel
 ## **Features include:**
 #
 ### **Add Expenses:**
-It can easily add expenses under pre-defined categories.
-The user can also make notes for each expense added.
-The expenses are automtaically added to the budget csv file.
+- It can easily add expenses under pre-defined categories.
+- The user can also make notes for each expense added.
+-The expenses are automtaically added to the budget csv file.
 
 ### **View Expenses:**
-The user can view all their expenses.
-Very Useful for reviewing past entries.
+-The user can view all their expenses.
+-Very Useful for reviewing past entries.
 
 ### **Spending Analytics:**
-Calculates total expenses.
- Displays category wise total expenses
- Also identifies highest spent category.
+- Calculates total expenses.
+- Displays category wise total expenses
+- Also identifies highest spent category.
 
 ### **Based on CSV file**
-It uses CSV file to store the file.
-Simple and lightweight
+- It uses CSV file to store the file.
+- Simple and lightweight
 
 ## **Technologies/Tools used**
-Python , 
-CSV File handiling ,
-OS Module ,
-Dictionary/Lists Data structures.
+- Python  
+- CSV File handiling 
+- OS Module 
+- Dictionary/Lists Data structures
 
 ## **Instructions For Testing**
 ### To Test **'Add Expense'**
-Enter a valid date, item , amount and category.
-The entered data will automatically be updated in the CSV file.
+- Enter a valid date, item , amount and category.
+- The entered data will automatically be updated in the CSV file.
 
 ### To test **'View Expenses'**
-Displays the records as entered.
+- Displays the records as entered.
 
 ### To test **'Invalid Input'**
-If the user enters a non numeric data type in amount then it will display invalid input.
+- If the user enters a non numeric data type in amount then it will display invalid input.
 
 ### To test **'View Analytics'**
-It will add entries across different categories.
-Display total spendings and the highest spent category.
+- It will add entries across different categories.
+- Display total spendings and the highest spent category.
 
 
 
