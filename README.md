@@ -32,9 +32,9 @@ The **Personal Budget Tracker** is a simple , beginner friendly project that hel
 - Navigate to the Project Directory
 - Install Required Libraries
   - Modules used:
-- csv
-- os
-- datetime
+  - csv
+  - os
+  - datetime
 -All are pre-installed with Python.
 - Run the Program
 - Use the Menu to Interact with the Application
