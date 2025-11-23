@@ -26,7 +26,15 @@ The **Personal Budget Tracker** is a simple , beginner friendly project that hel
 - CSV File handiling 
 - OS Module 
 - Dictionary/Lists Data structures
-
+## **Steps to install & run the project**
+- Install Python (if not already installed)
+- Download or Clone the Project
+- Navigate to the Project Directory
+- Install Required Libraries
+- Run the Program
+- Use the Menu to Interact with the Application
+- CSV File Auto-Creation
+- Stop the Program
 ## **Instructions For Testing**
 ### To Test **'Add Expense'**
 - Enter a valid date, item , amount and category.
