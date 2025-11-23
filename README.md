@@ -6,7 +6,7 @@ The **Personal Budget Tracker** is a simple , beginner friendly project that hel
 ### **Add Expenses:**
 - It can easily add expenses under pre-defined categories.
 - The user can also make notes for each expense added.
--The expenses are automtaically added to the budget csv file.
+-The expenses are automatically added to the budget csv file.
 
 ### **View Expenses:**
 -The user can view all their expenses.
@@ -23,7 +23,7 @@ The **Personal Budget Tracker** is a simple , beginner friendly project that hel
 
 ## **Technologies/Tools used**
 - Python  
-- CSV File handiling 
+- CSV File handliing 
 - OS Module 
 - Dictionary/Lists Data structures
 ## **Steps to install & run the project**
