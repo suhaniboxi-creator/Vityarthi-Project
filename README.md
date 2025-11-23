@@ -55,7 +55,7 @@ The **Personal Budget Tracker** is a simple , beginner friendly project that hel
 - It will add entries across different categories.
 - Display total spendings and the highest spent category.
 
-
+## **Screenshots**
 <img width="435" height="209" alt="Screenshot 2025-11-23 102217" src="https://github.com/user-attachments/assets/f64f2afe-aac8-46b4-8fd9-00fb27579f35" />
 <img width="708" height="205" alt="Screenshot 2025-11-23 102314" src="https://github.com/user-attachments/assets/78cb13d8-887c-4875-9964-d78fc308e3de" />
 <img width="608" height="181" alt="Screenshot 2025-11-23 102333" src="https://github.com/user-attachments/assets/5003eda9-df70-494e-acd9-772333489bf8" />
